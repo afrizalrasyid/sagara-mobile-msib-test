@@ -1,33 +1,10 @@
 # sagara-mobile-msib-test
 
-Tujuan:
-Mengembangkan aplikasi mobile dasar menggunakan React Native atau Flutter untuk menunjukkan keterampilan dasar Anda dalam pengembangan aplikasi mobile, terutama dalam integrasi API dan desain antarmuka pengguna.
+1. Buka aplikasi dan nanti akan diarahkan untuk izin akses lokasi
+   ![alt text](assets/images/1.jpeg)
 
-Konsep Aplikasi:
-Membuat aplikasi "Weather Forecast" (Prakiraan Cuaca).
+2. Setelah akses lokasi diizinkan, akan muncul tampilan cuaca seperti lokasi dan suhu saat itu juga. Lalu terdapat juga list dari cuaca selain hari itu
+   ![alt text](assets/images/2.jpeg)
 
-Fitur Utama:
-1. Tampilan Cuaca:
-- Menampilkan kondisi cuaca saat ini.
-- Menampilkan prakiraan cuaca untuk 3 hari ke depan.
-
-2. Integrasi API:
-- Menggunakan API cuaca publik (OpenWeatherMap https://openweathermap.org/api) untuk mengambil dan menampilkan data cuaca.
-
-Persyaratan:
-- Integrasi API: Mengintegrasikan API yang dipilih untuk mengambil dan menampilkan data cuaca saat ini serta prakiraan cuaca.
-- Penanganan Error: Mengimplementasikan penanganan error dasar untuk mengelola masalah seperti kegagalan permintaan API atau kurangnya koneksi internet.
-- Kualitas Kode: Penerapan SOLID Programming
-- Desain UI/UX: Sederhana, intuitif, dan menarik secara visual.
-
-Dokumentasi:
-- Menyertakan file README dengan instruksi tentang cara mengatur dan menjalankan aplikasi.
-- Kirimkan kode sumber lengkap melalui link repository GitHub.
-- Pastikan aplikasi mudah diatur dan dijalankan, dengan instruksi pengaturan yang jelas dalam file README.
-
-Kriteria Penilaian:
-1. Organisasi & Kejelasan Kode, struktur dan organisasi kode
-2. Error handling
-3. UI/UX yang sederhana dan efektif.
-
-Deliverables silakan fork repository ini dan submit link repository hasil pengerjaan Anda ke [https://bit.ly/study-case-mobile-developer-msib](https://bit.ly/study-case-mobile-developer-msib).
+3. Jika scroll ke bawah, nantinya akan muncul list prediksi cuaca selama 3 hari ke depan
+   ![alt text](assets/images/3.jpeg)
